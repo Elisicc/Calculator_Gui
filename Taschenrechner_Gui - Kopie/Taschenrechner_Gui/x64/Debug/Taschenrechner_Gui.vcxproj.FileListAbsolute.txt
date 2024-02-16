@@ -1,0 +1,4 @@
+C:\Users\breitl3\source\repos\Taschenrechner_Gui\Taschenrechner_Gui\x64\Debug\Taschenrechner_Gui.vcxproj.AssemblyReference.cache
+C:\Users\breitl3\source\repos\Taschenrechner_Gui\Taschenrechner_Gui\x64\Debug\Taschenrechner_Gui.vcxproj.ResolveComReference.cache
+C:\Users\breitl3\source\repos\Taschenrechner_Gui\Taschenrechner_Gui\x64\Debug\TaschenrechnerGui.MyForm.resources
+C:\Users\breitl3\source\repos\Taschenrechner_Gui\Taschenrechner_Gui\x64\Debug\Taschenrechner_Gui.vcxproj.GenerateResource.cache
